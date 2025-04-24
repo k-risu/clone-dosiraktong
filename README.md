@@ -1,7 +1,7 @@
 # 도시락통 클론 퍼블리싱 스터디 프로젝트
 
 - 원사이트 https://dosiraktong.com/Main/Index
-- 배포주소
+- 배포주소 https://clone-dosiraktong-5cq7igx6r-k-risus-projects.vercel.app/
 
 ## 메인사이트
 
